@@ -1,0 +1,17 @@
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/KeyPuzzle
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/KeyPuzzle.deps.json
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/KeyPuzzle.runtimeconfig.json
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/KeyPuzzle.dll
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/KeyPuzzle.pdb
+/home/kong64/Documents/Code/KeyPuzzle/bin/Debug/net8.0/SplashKitSDK.dll
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.csproj.AssemblyReference.cache
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.AssemblyInfoInputs.cache
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.AssemblyInfo.cs
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.csproj.CoreCompileInputs.cache
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.csproj.Up2Date
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.dll
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/refint/KeyPuzzle.dll
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.pdb
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/KeyPuzzle.genruntimeconfig.cache
+/home/kong64/Documents/Code/KeyPuzzle/obj/Debug/net8.0/ref/KeyPuzzle.dll
